@@ -6,4 +6,4 @@ Tämä on "Hello-ohjelma", joka on toteutettu osana Git-versionhallinta - SOF011
 - Timmy Lähteinen
 
 ## Käyttöohjeet
-Tämä ohjelma tulostaa "Hello, World!" käyttäjän näytölle.
+Tämä ohjelma tulostaa "Hei maailma!" käyttäjän näytölle.
